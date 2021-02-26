@@ -25,6 +25,7 @@ namespace OperateCMD
             p.StandardInput.WriteLine("dotnet --version");
             p.StandardInput.WriteLine("dotnet --version");
             p.StandardInput.WriteLine("dotnet --version");
+            p.StandardInput.WriteLine("dotnet --version");
 
             //获取cmd窗口的输出信息
             StreamReader reader = p.StandardOutput;
