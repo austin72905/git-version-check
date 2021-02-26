@@ -1,0 +1,7 @@
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\bin\Debug\OperateCMD.exe.config
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\bin\Debug\OperateCMD.exe
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\bin\Debug\OperateCMD.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\obj\Debug\OperateCMD.csprojAssemblyReference.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\obj\Debug\OperateCMD.csproj.CoreCompileInputs.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\obj\Debug\OperateCMD.exe
+C:\Users\JIN78\Desktop\littleBlackWindows\OperateCMD\obj\Debug\OperateCMD.pdb
