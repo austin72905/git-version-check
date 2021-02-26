@@ -23,6 +23,7 @@ namespace OperateCMD
             //向cmd窗口发送输入信息
             p.StandardInput.WriteLine("dotnet --version");
             p.StandardInput.WriteLine("dotnet --version");
+            p.StandardInput.WriteLine("dotnet --version");
 
             //获取cmd窗口的输出信息
             StreamReader reader = p.StandardOutput;
